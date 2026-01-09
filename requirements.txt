@@ -1,0 +1,8 @@
+tensorflow
+numpy
+pandas
+matplotlib
+pillow
+streamlit>=1.28.0
+scikit-learn
+plotly>=5.17.0

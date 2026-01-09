@@ -1,0 +1,26 @@
+# Dataset (too large for git)
+dataset
+data/
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+~$*
+nul
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# Claude settings
+.claude/
+
+# Model files (large)
+models/*.h5
