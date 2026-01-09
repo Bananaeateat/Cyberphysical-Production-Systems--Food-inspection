@@ -22,5 +22,3 @@ nul
 # Claude settings
 .claude/
 
-# Model files (large)
-models/*.h5

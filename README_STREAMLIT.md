@@ -167,6 +167,7 @@ else:
 
 ## Dataset Information
 
+- **Source**: [Fresh and Stale Classification Dataset (Kaggle)](https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification/data)
 - **Total Images**: ~30,000+
 - **Training Set**: ~78% (23,619 images)
 - **Test Set**: ~22% (6,738 images)
